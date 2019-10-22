@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/mi/CLionProjects/Prim/Graph.h
+iostream
+-
+vector
+-
+fstream
+-
+stack
+-
+string
+-
+cmath
+-
+cstdlib
+-
+ctime
+-
+iomanip
+-
+ctime
+-
+
+C:/Users/mi/CLionProjects/Prim/main.cpp
+iostream
+-
+list
+-
+stack
+-
+Graph.h
+C:/Users/mi/CLionProjects/Prim/Graph.h
+time.h
+-
+
